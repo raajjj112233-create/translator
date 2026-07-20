@@ -1,5 +1,5 @@
 # translator
 using deep-translator
 # Install the deep-translator package in your environment
-code#
+code# <br>
 !pip install deep-translator
